@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "red-atlas-389804",
+  "private_key_id": "850f8f127e9cee3ea0b204755e7daf347dc94fe4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrr5kVbggi9XEW\n+riJyRxjKUjUyeE7BMJCV0233NsH3rTmT6Aq6eXoSHNGZn7X+dy+6D1gwrHgEh/1\nTNqHsKOn4LDcTOisNfxtR0NuUXYySnmZSKDYu7A59iwIVrDNoTroLDaqPVLKUKXu\nWwSfuF98/KnRgExZE/yWOQAgNCIfqJAofnXxBu/2PP+BhwW/X6A/MT2PAZhqkrlN\nNNV7fEtODK5JJ0uLvAYgiDE7NMb+rZ32xiJa6GsVm4xA76eOnvEthvS/Bgp6Ddu/\nJcVOOCwJzXyYXPJVmFdoS0reZnytw/sX/F/2vtu3TPyPJG0CNGLDT/jLom4gEIyA\nPHZphypVAgMBAAECggEACOF2a7NbXGORy/yAGzB59W8nQ0qGCgV+/uuBK6eS9N9C\nQD+SK2YZ7GADBns6yHU2Q/HDawPnK44EdS3ah/ZNINvwihS4XGAWhJiRFl3EXWmY\nzKMDHvLmdLkVIgFJ9/kFEQlocnnllG2Dh8bRgGmLFu4C4sFeMaVlBWhBZ2kK8tQx\nmGXkjYXAehgSumElL2Jl9kCDURzAMnd08cKFQ59JnJlTI5Duurkl5jFh/oG/bw18\nyv/aXsdyYH+HbMh4wvjUAaMz1GdV1CCpf4Wt2mTrDnS76RoZ6ghiQose74aMspA6\n8xrJJaYkHrmS/C1qJTRmBm+7YuXtH/FuWLHo1ZM5gQKBgQDdOZxcI5bsfEDWqy1w\nAomIZzKd411vYz9e+3eJ5BIiIg0F57L4t19gx1q9BGlCQcfX0mHa9nPeOanUJwgN\nSpG/sWgsI449JZDHxvDb0ENQjTHAg2RMuoSYMQuA8wUzr4amvrYiEpLyuBa0SLTS\nAXp4vdRmZLk2+9p3oyVLtxU50QKBgQDGrHezv6ur46qKOBPXPugdiKqupqbuVgol\nhGAulRuH4La6lpzHJohl9ujfAJgFW2l8ZswV9QHUTTnEdlgn+ezzEsJkWfuix4nL\nAcirQtgz41ODdQbrEhF1l85Abl0wvm8OUeTOjCxhdJZcYZd0JAbZCvAurElr3JR0\ndSks2bWFRQKBgFBFazrznvvISi6ahi4yfX0FFRS9P1X/iSsJy+I442uHN3qBDCu7\nPdx7+azEQP1NqRniuKce7gQgoELetsk72Y7Y7Je3fxEo5FPZF+RquUItOXRFOMuu\nkhY3FZmAlM6gTheK88OBQdjYe0SHbTUWXD4bg0p0GdCdqjPm+s1ybT1BAoGABRiN\nZXXoIFuRl0QC9kVtzLwhrKMnqvtX/Uhc8zTt5NlVtomAcfdCDmN766RnQdPra75z\nQ6jqKBjm/2wNrNDTTBTSGaLZOn6lwShFjmcDhqkxDjElQUhQXFTNfIeYKlToIlTl\naorb5JAJ/0qdiOQXrN+D856Fr5eT0zziFn1rE4UCgYAuqmWJZtbEWogjc82fefDD\neAgjxHEYZbWThs5qzWDRnTd2Iv0/Dfgn1EhMGMzdK32x9NRu2ArKxTHJww5/YogF\nR/jd6SdKpRnGoZXQe4MWbxZQem/18LTzBqv0L/9LEzEgoSxsERqf6/HFzuQvtPYG\nHsf7q9JC04UniokrAnql7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dtc-de-user@red-atlas-389804.iam.gserviceaccount.com",
+  "client_id": "105438054415752515611",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dtc-de-user%40red-atlas-389804.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
